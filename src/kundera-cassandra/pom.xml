@@ -85,7 +85,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.slf4j</groupId>
-			<artifactId>slfffff4j-api</artifactId>
+			<artifactId>slf4j-api</artifactId>
 			<version>1.7.2</version>
 		</dependency>
 
@@ -98,7 +98,7 @@
 		<dependency>
 			<groupId>commons-codec</groupId>
 			<artifactId>commons-codec</artifactId>
-			<version>151515151515151151</version>
+			<version>1.8</version>
 			<scope>provided</scope>
 		</dependency>
 		<!-- contiperf dependency should not be here -->
